@@ -172,9 +172,9 @@ Material:
     - _AnimationDirection: {r: 0, g: 0, b: 0, a: 0}
     - _AnimationTiling: {r: 0.04582553, g: 0.0182, b: 0.045714468, a: 0.027129691}
     - _BaseColor: {r: 0.27205884, g: 1, b: 1, a: 1}
-    - _BumpDirection: {r: 0.24, g: 30, b: 30, a: -50}
+    - _BumpDirection: {r: 0.62, g: 30, b: 30, a: -50}
     - _BumpMap_ST: {r: 1, g: 1, b: 0, a: 0}
-    - _BumpTiling: {r: 0, g: 0, b: 0, a: 0}
+    - _BumpTiling: {r: 0.03, g: 0, b: 0, a: 0}
     - _Color: {r: 0.4044118, g: 0.9753549, b: 1, a: 1}
     - _DepthColor: {r: 0.027511697, g: 0.14179105, b: 0.13226777, a: 0.4627451}
     - _DepthColorFade: {r: 0.8880597, g: 0.27834705, b: 0.44463244, a: 0.22352941}
